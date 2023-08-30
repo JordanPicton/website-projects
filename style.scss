@@ -1,0 +1,19 @@
+$background: #001B2E;
+$primary: #80A4ED;
+$secondary: #6B93AA;
+$generic: #C5D6E0;
+
+$important: #B8336A;
+$warning: #FCFF4B;
+
+body {
+   background-color:  $background;
+   color: $generic;
+   display: flex;
+   align-items: center;
+}
+
+#mainh {
+   color: $primary;
+   font-size: 5rem;
+}
